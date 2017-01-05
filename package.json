@@ -1,0 +1,24 @@
+{
+  "name": "cyberspace",
+  "description": "Notional computer network communication environment.",
+  "version": "0.0.0",
+  "author": "Nate Goldman <ungoldman@gmail.com> (http://ungoldman.com/)",
+  "bugs": {
+    "url": "https://github.com/ungoldman/cyberspace/issues"
+  },
+  "homepage": "https://github.com/ungoldman/cyberspace",
+  "keywords": [
+    "cyber",
+    "space"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ungoldman/cyberspace.git"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
